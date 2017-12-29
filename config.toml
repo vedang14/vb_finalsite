@@ -2,6 +2,7 @@ baseURL = "https://vedang14.github.io/vedangbhardwaj/"
 publishDir= "docs"
 languageCode = "en-us"
 title = "Vedang Bhardwaj"
+googleAnalytics = "UA-111678428-1"
 theme= "prologue"
 [params]
   name = "      Vedang Bhardwaj"
